@@ -188,7 +188,7 @@
             this.StartDate.Location = new System.Drawing.Point(520, 98);
             this.StartDate.Name = "StartDate";
             this.StartDate.ReadOnly = true;
-            this.StartDate.Size = new System.Drawing.Size(59, 20);
+            this.StartDate.Size = new System.Drawing.Size(140, 20);
             this.StartDate.TabIndex = 14;
             this.StartDate.TabStop = false;
             // 
